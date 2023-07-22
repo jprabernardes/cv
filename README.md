@@ -1,6 +1,4 @@
-#Resume
-
-JPRABernardes's GitHub Portfolio
+**JPRABernardes's GitHub Portfolio**
 
 Welcome to my GitHub portfolio! I am João Paulo Romualdo, a passionate Software and Web developer with a strong commitment to creating innovative and impactful projects.
 
