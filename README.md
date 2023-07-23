@@ -6,6 +6,10 @@ I utilize this platform to showcase a diverse range of projects that demonstrate
 
 Please feel free to explore my repositories, collaborate, and provide feedback. I am always excited to connect with fellow developers and potential employers. Thank you for visiting, and I hope you find inspiration in my work.
 
+
+**This project page (my portifolio)**
+https://jprabernardes.github.io/portifolio/
+
 **Fork from:**
 
 https://github.com/digitalinnovationone/cv
